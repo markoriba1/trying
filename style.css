@@ -1,0 +1,12 @@
+.ad {
+            color: black;
+            width: 25%; /* Each ad takes up 25% of the row */
+            display: inline-block;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            text-align: center;
+            max-width: 100%;
+            height: auto;
+        }
+
