@@ -1,7 +1,7 @@
 .ad {
             color: black;
-            width: 25%; /* Each ad takes up 25% of the row */
-          
+            width: 250px; /* Each ad takes up 25% of the row */
+            height: 250px;       
             box-sizing: border-box;
             
             
